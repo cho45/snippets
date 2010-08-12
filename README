@@ -1,5 +1,7 @@
 This is meta repository of snippets of my gists.
 
+git clone --recursive git://github.com/cho45/snippets.git
+
 http://gist.github.com/3239.txt#createElementFromString
 http://gist.github.com/3238.txt#$X
 http://gist.github.com/46391.txt#duration
