@@ -1,0 +1,18 @@
+[submodule "getCurrentLocation"]
+	path = getCurrentLocation
+	url = git@gist.github.com:228509.git
+[submodule "createElementFromString"]
+	path = createElementFromString
+	url = git@gist.github.com:3239.git
+[submodule "dollarX"]
+	path = dollarX
+	url = git@gist.github.com:3238.git
+[submodule "duration"]
+	path = duration
+	url = git@gist.github.com:46391.git
+[submodule "createHTMLDocument"]
+	path = createHTMLDocument
+	url = git@gist.github.com:49453.git
+[submodule "uneval"]
+	path = uneval
+	url = git@gist.github.com:242072.git
