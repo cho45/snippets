@@ -16,3 +16,6 @@
 [submodule "uneval"]
 	path = uneval
 	url = git@gist.github.com:242072.git
+[submodule "keyString"]
+	path = keyString
+	url = git://gist.github.com/659145.git
