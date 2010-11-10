@@ -19,3 +19,6 @@
 [submodule "keyString"]
 	path = keyString
 	url = git://gist.github.com/659145.git
+[submodule "location"]
+	path = location
+	url = git://gist.github.com/670772.git
