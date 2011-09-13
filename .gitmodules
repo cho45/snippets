@@ -22,3 +22,9 @@
 [submodule "location"]
 	path = location
 	url = git://gist.github.com/670772.git
+[submodule "EditDesign"]
+	path = EditDesign
+	url = git@gist.github.com:1185667.git
+[submodule "daterelative"]
+	path = daterelative
+	url = git@gist.github.com:1213698.git
