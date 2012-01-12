@@ -28,3 +28,6 @@
 [submodule "daterelative"]
 	path = daterelative
 	url = git@gist.github.com:1213698.git
+[submodule "Array_sortBy"]
+	path = Array_sortBy
+	url = git@gist.github.com:1597965.git
