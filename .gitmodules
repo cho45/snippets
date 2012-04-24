@@ -31,3 +31,6 @@
 [submodule "Array_sortBy"]
 	path = Array_sortBy
 	url = git@gist.github.com:1597965.git
+[submodule "microlog"]
+	path = microlog
+	url = git@gist.github.com:2410809
